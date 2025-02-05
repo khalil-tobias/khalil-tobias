@@ -11,7 +11,8 @@
 
 ## 🌱 Currently Learning  
 - Advanced Java and Spring Boot  
-- System design and scalable architectures  
+- System design and scalable architectures
+- NextJS ShadCN UI 
 
 ## 💞️ Looking to Collaborate On  
 - Open-source projects in web development and backend engineering  
