@@ -6,13 +6,14 @@
 ## 👀 Interests  
 - Software development, web applications, and backend systems  
 - API development and data integration  
-- Cloud computing and DevOps  
+- React Native Mobile Development
 - Machine learning and AI exploration  
 
 ## 🌱 Currently Learning  
-- Advanced Java and Spring Boot  
+- React Native   
 - System design and scalable architectures
-- NextJS ShadCN UI 
+- NextJS ShadCN UI
+- Fire base
 
 ## 💞️ Looking to Collaborate On  
 - Open-source projects in web development and backend engineering  
@@ -38,10 +39,3 @@ I’m a recent graduate from **Florida International University (FIU)** with a d
 I’m currently exploring **cloud technologies** and **scalable backend systems**, aiming to become a **software engineer** specializing in full stack and API development. I thrive in **team collaborations**, solving challenges, and continuously expanding my skill set.  
 
 Let's connect and build something awesome together! 🚀  
-
----
-
-<!---
-khalil-tobias/khalil-tobias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
